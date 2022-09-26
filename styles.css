@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+
+
+
+                            /* BAŞLIKLAR */
+
+h1, h3 {
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 50px;
+    
+}
+                              /* LİNKLER */
+
+
+                              
+a {
+    margin-left: 50px;
+    text-decoration: none;
+    font-size: 25px;
+}
+a:hover{
+    color: red;
+}
+a:active {
+    text-decoration: overline;
+}
+
+
+
+
+
+
+                             /* LİSTE */
+.ekipmanlar {
+    list-style: none;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+
+}

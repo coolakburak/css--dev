@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+/* ******************* BAŞLIK ******************/
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+
+
+/************************* LİNKLER **********************/
+a {
+    margin-left: 50px;
+    text-decoration: none;
+    font-size: 25px;
+}
+a:hover{
+    color: red;
+}
+a:active {
+    text-decoration: overline;
+}
+
+
+
+/********************** ÜRÜNLER***************************/
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orange;
+    
+}
+strong {
+    color: blue;
+}

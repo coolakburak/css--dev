@@ -1,0 +1,36 @@
+body { 
+    background-color: gray;
+    
+}
+.container {
+    position: absolute;
+}
+/* YAZILAR VE BAŞLIKLAR */
+h1 {
+    color: orange;    
+}
+p {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+}
+
+
+
+/* LİNKLER */
+a {
+    text-align: center;
+    margin-left: 50px;
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+a:hover{
+    color: red;
+}
+a:active {
+    text-decoration: overline;
+}
+.linkler{
+    text-align: center;
+}
